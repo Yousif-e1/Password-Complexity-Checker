@@ -1,12 +1,6 @@
 # Password-Complexity-Checker
 - This program is a Password Complexity Checker that evaluates the strength of a password based on specific criteria, including:
 
-1 Length (minimum 8 characters)
-2 Presence of uppercase and lowercase letters
-3 Inclusion of numbers
-4 Use of special characters
-5 It provides feedback on each aspect of the password and rates its overall strength as Strong, Moderate, or Weak. This tool helps users create more secure passwords by identifying areas for improvement.
-
 # How it Work
 1 Password Input:
 - The program prompts the user to enter a password using the input() function.
